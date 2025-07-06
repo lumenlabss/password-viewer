@@ -67,12 +67,6 @@ Licence MIT — fais-en ce que tu veux !
 * Option pour masquer à nouveau tous les champs (toggle)
 * Améliorations UI/UX
 
----
-
-## Auteur
-
-**Loris La Tegola** — [Echo-Host](https://echo-host.net)
-[Contact](mailto:loris.lategola@echo-host.net)
 
 ---
 
